@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0152-maximum-product-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
