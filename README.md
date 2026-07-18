@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0056-merge-intervals) |
+| [0118-pascals-triangle](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0152-maximum-product-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
