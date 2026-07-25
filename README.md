@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
