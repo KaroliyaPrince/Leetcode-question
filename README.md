@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
