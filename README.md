@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3310-remove-methods-from-project) |
 ## Dynamic Programming
 |  |
 | ------- |
