@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
