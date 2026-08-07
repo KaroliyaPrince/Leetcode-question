@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1260-shift-2d-grid) |
 ## Minimax
 |  |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
