@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0509-fibonacci-number) |
@@ -164,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
