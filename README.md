@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0056-merge-intervals) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
