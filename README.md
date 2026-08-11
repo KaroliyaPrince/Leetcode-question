@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0152-maximum-product-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0877-stone-game) |
@@ -179,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
