@@ -138,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
