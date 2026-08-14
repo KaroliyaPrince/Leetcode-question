@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0125-valid-palindrome) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
