@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
