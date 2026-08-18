@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2833-furthest-point-from-origin](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0125-valid-palindrome) |
+| [2833-furthest-point-from-origin](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
