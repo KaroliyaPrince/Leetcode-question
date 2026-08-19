@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 | [2540-minimum-common-value](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0055-jump-game) |
+| [1386-cinema-seat-allocation](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0067-add-binary) |
+| [1386-cinema-seat-allocation](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 ## Trie
 |  |
 | ------- |
