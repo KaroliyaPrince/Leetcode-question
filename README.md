@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0055-jump-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 | [2540-minimum-common-value](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2540-minimum-common-value) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/1260-shift-2d-grid) |
 ## Simulation
