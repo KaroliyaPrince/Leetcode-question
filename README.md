@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KaroliyaPrince/Leetcode-question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
